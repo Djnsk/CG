@@ -1,0 +1,8 @@
+﻿  Render.cpp
+C:\Users\natal\OneDrive\Рабочий стол\Шарага\2.5 курс\кг\другие лабы\laba2\OpenGLrememberProj\Render.cpp(115,31): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\natal\OneDrive\Рабочий стол\Шарага\2.5 курс\кг\другие лабы\laba2\OpenGLrememberProj\Render.cpp(115,40): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\natal\OneDrive\Рабочий стол\Шарага\2.5 курс\кг\другие лабы\laba2\OpenGLrememberProj\Render.cpp(115,49): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\natal\OneDrive\Рабочий стол\Шарага\2.5 курс\кг\другие лабы\laba2\OpenGLrememberProj\Render.cpp(603,10): warning C4101: radius: неиспользованная локальная переменная
+C:\Users\natal\OneDrive\Рабочий стол\Шарага\2.5 курс\кг\другие лабы\laba2\OpenGLrememberProj\Render.cpp(605,10): warning C4101: tmp: неиспользованная локальная переменная
+C:\Users\natal\OneDrive\Рабочий стол\Шарага\2.5 курс\кг\другие лабы\laba2\OpenGLrememberProj\Render.cpp(782,10): warning C4138: "*/" найден вне комментария
+C:\Users\natal\OneDrive\Рабочий стол\Шарага\2.5 курс\кг\другие лабы\laba2\OpenGLrememberProj\Render.cpp(782,11): error C2059: синтаксическая ошибка: /
